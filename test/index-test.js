@@ -1,4 +1,4 @@
-/*port 'jsdom-global/register';
+port 'jsdom-global/register';
 import { expect } from 'chai'
 import React from 'react'
 import ReactDOM from 'react-dom'
@@ -81,4 +81,3 @@ describe('ColorBox', () => {
   })
   
 })
-*/
